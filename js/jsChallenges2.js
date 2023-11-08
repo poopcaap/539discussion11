@@ -11,4 +11,4 @@ function challenge2(element){
     }
 }
 
-document.querySelector("#").addEventListener("click", challenge2)
+document.querySelector("#sameAddress").addEventListener("click", challenge2)
